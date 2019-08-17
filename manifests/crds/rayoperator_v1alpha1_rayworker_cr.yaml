@@ -1,0 +1,6 @@
+apiVersion: ray-operator.io/v1alpha1
+kind: RayWorker
+metadata:
+  name: example-rayworker
+spec:
+  size: 3

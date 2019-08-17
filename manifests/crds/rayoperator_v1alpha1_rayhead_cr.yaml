@@ -1,0 +1,6 @@
+apiVersion: ray-operator.io/v1alpha1
+kind: RayHead
+metadata:
+  name: example-rayhead
+spec:
+  size: 1
